@@ -18,3 +18,7 @@ h1{
 div#azul{
  color: blue;
 }
+
+img{
+  border-radius: 50%;
+}
